@@ -1,0 +1,51 @@
+```css
+/* Page background and body font */
+body {
+    background-color: #e0fff7;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main heading */
+h1 {
+    color: #b22222;
+    font-family: Georgia, serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Other headings */
+h2, h3, h4, h5, h6 {
+    color: #d35400;
+    font-family: Georgia, serif;
+}
+
+/* Header background */
+header {
+    background-color: #ffcc80;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation links */
+nav a {
+    color: #8b0000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #8b4513;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+```
